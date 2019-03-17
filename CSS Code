@@ -1,0 +1,20 @@
+.sidenav {
+  height: 100%; 
+  width: 20%; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  overflow: scroll;
+  font-size: 120%;
+  background-color: pink;  
+  padding-top: 00px;
+  transition: 0.5s;
+}
+a{
+  text-decoration: none;
+}
+#introduction ,#what_to_know, #js_and_java, #hello_world, #variables, #link, #declaration, #scope, #global, #constants, #data_types{
+  margin-left: 22%;
+  
+}
